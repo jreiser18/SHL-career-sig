@@ -25,8 +25,8 @@ import urllib.request
 # Set both before the first run. PLAYER_ID is the number in your player's page URL on
 # portal.simulationhockey.com. PLAYER_NAME is the name exactly as the portal spells it;
 # if the portal returns anyone else under that id, the run stops before writing anything.
-PLAYER_ID = 2435
-PLAYER_NAME = "Jagger Eriksson"
+PLAYER_ID = 2348
+PLAYER_NAME = "Leo Rumack"
 
 PORTAL_PLAYER = "https://portal.simulationhockey.com/api/v1/player?pid={pid}"
 INDEX_TEAM = "https://index.simulationhockey.com/api/v1/teams/{team}?league={league}"

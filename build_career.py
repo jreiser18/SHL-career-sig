@@ -1,4 +1,4 @@
-"""Render sig.career.template.svg + data.json into jagger.career.svg.
+"""Render sig.career.template.svg + data.json into leo.career.svg.
 
 This is the career-aggregate build. data.json holds ONE stats object, and for this
 build it means career totals to date: update it in place as the career goes on.
@@ -30,7 +30,7 @@ HERE = pathlib.Path(__file__).parent
 TEMPLATE_PATH = HERE / "sig.career.template.svg"
 DATA_PATH = HERE / "data.json"
 LOGO_PATH = HERE / "logo.svg"
-OUTPUT_PATH = HERE / "jagger.career.svg"
+OUTPUT_PATH = HERE / "leo.career.svg"
 
 CANVAS_WIDTH = 620.0
 BAR_MAX_TPE = 2000.0
