@@ -70,7 +70,7 @@ jobs:
       - name: Prepare site
         run: |
           mkdir site
-          cp jagger.career.svg site/signature.svg
+          cp leo.career.svg site/signature.svg
 
       - uses: actions/upload-pages-artifact@v4
         with:
