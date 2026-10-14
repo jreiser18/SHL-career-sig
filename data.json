@@ -31,7 +31,7 @@
   },
   "player": {
     "appliedTPE": 1054,
-    "bankedTPE": 4,
+    "bankedTPE": 6,
     "birthplace": "Boston, MA, USA",
     "currentLeague": "SHL",
     "currentTeamID": 12,
@@ -41,7 +41,7 @@
     "jerseyNumber": 18,
     "name": "Leo Rumack",
     "position": "Right Wing",
-    "totalTPE": 1058,
+    "totalTPE": 1060,
     "weight": 196
   },
   "stats": {
@@ -49,30 +49,30 @@
     "league": "SHL",
     "regular": {
       "advanced": {
-        "CFPct": 38.897,
-        "FFPct": 35.684,
+        "CFPct": 39.241,
+        "FFPct": 36.117,
         "GA60": 5.024,
-        "GF60": 2.922,
-        "PDO": 100.886,
-        "SA60": 44.07,
-        "SF60": 23.998
+        "GF60": 2.932,
+        "PDO": 100.826,
+        "SA60": 43.859,
+        "SF60": 24.026
       },
-      "assists": 54,
-      "gamesPlayed": 118,
-      "giveaways": 132,
-      "goals": 38,
-      "hits": 181,
+      "assists": 56,
+      "gamesPlayed": 122,
+      "giveaways": 141,
+      "goals": 39,
+      "hits": 188,
       "pim": 69,
-      "plusMinus": -90,
-      "points": 92,
-      "ppPoints": 16,
-      "ppTimeOnIce": 12997,
+      "plusMinus": -92,
+      "points": 95,
+      "ppPoints": 17,
+      "ppTimeOnIce": 14236,
       "shPoints": 1,
-      "shTimeOnIce": 1341,
-      "shotsBlocked": 42,
-      "shotsOnGoal": 219,
-      "takeaways": 57,
-      "timeOnIce": 139125
+      "shTimeOnIce": 1380,
+      "shotsBlocked": 44,
+      "shotsOnGoal": 223,
+      "takeaways": 63,
+      "timeOnIce": 144541
     },
     "season": 90,
     "team": "SFP"
