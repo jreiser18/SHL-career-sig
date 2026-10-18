@@ -31,7 +31,7 @@
   },
   "player": {
     "appliedTPE": 1054,
-    "bankedTPE": 17,
+    "bankedTPE": 20,
     "birthplace": "Boston, MA, USA",
     "currentLeague": "SHL",
     "currentTeamID": 12,
@@ -41,7 +41,7 @@
     "jerseyNumber": 18,
     "name": "Leo Rumack",
     "position": "Right Wing",
-    "totalTPE": 1071,
+    "totalTPE": 1074,
     "weight": 196
   },
   "stats": {
