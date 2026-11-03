@@ -1,16 +1,16 @@
 {
   "attributes": {
     "acceleration": 16,
-    "aggression": 7,
+    "aggression": 10,
     "agility": 16,
     "balance": 16,
-    "bravery": 12,
+    "bravery": 13,
     "checking": 13,
     "defensiveRead": 13,
     "determination": 15,
     "faceoffs": 5,
     "fighting": 5,
-    "gettingOpen": 16,
+    "gettingOpen": 17,
     "hitting": 13,
     "leadership": 15,
     "offensiveRead": 18,
@@ -19,7 +19,7 @@
     "professionalism": 15,
     "puckhandling": 17,
     "screening": 12,
-    "shootingAccuracy": 18,
+    "shootingAccuracy": 19,
     "shootingRange": 12,
     "shotBlocking": 5,
     "speed": 17,
@@ -30,8 +30,8 @@
     "temperament": 15
   },
   "player": {
-    "appliedTPE": 1054,
-    "bankedTPE": 89,
+    "appliedTPE": 1143,
+    "bankedTPE": 13,
     "birthplace": "Boston, MA, USA",
     "currentLeague": "SHL",
     "currentTeamID": 12,
@@ -41,7 +41,7 @@
     "jerseyNumber": 18,
     "name": "Leo Rumack",
     "position": "Right Wing",
-    "totalTPE": 1143,
+    "totalTPE": 1156,
     "weight": 196
   },
   "stats": {
